@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Categorías</title>
+</head>
+<body>
+	<header>
+		<h1 style="text-align:center;">Sistemas microinformaticos y redes</h1>
+	</header>
+	<h2>UF0853 Explotación de las funcionalidades del sistema microinformático. (60 horas)</h2>
+	<ul>
+		<li><button><a href="https://drive.google.com/file/d/1Tt-_yuTC4etAGKiWd_R_A1lftP0gOpgk/view">1. Utilidades del sistema operativo y organización y gestión de discos y archivos</a></button></li>
+		<li><button><a href="https://drive.google.com/file/d/1ZrUzEnJbBR659sF6V0cWr3phEawfPL5t/view">2. Organización y gestión directorios y archivos.</a></button></li>
+
+	</ul>
+</body>
+<body>
+	<h2>UF0852 Instalación y actualización de sistemas operativos. (80 horas)</h2>
+	<ul>
+		<li><button><a href="https://drive.google.com/file/d/1qd-9b4_4HKYvdoPJS8Ht0_Zzu3h14mb1/view">Introducción a los sistemas informáticos</a></button></li>
+	</ul>
+</body>
+</html>
+
+
+
+
